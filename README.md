@@ -10,9 +10,9 @@ Here’s a customized README file for your Kaggle case resolution project focusi
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository
 
-2. Navigate to the project directory:
+2. Navigate to the project directory
 
 ## Usage
 
