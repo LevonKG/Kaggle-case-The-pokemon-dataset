@@ -2,9 +2,7 @@
 
 This project presents an in-depth analysis and model-building exercise using the **Complete Pokémon Dataset** from Kaggle. The goal is to predict whether a Pokémon is "legendary" based on various features like stats, types, and generation.
 
-
-
-Here’s a customized README file for your Kaggle case resolution project focusing on the Pokémon dataset:
+This is a Kaggle Case project submission to APC course (UAB).
 
 ---
 
