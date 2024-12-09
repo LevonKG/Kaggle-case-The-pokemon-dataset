@@ -12,6 +12,8 @@ This is a Kaggle Case project submission to APC course (UAB).
 
 2. Navigate to the project directory
 
+3. Open the jupyter notebook
+
 ## Usage
 
 1. Run the jupyter notebook, or just visualize the results
